@@ -1,0 +1,10 @@
+* emacs-color-schemes
+https://emacsthemes.com/
+https://pawelbx.github.io/emacs-theme-gallery/
+https://github.com/owainlewis/emacs-color-themes
+https://www.reddit.com/r/emacs/search?q=theme&restrict_sr=on
+
+** dark
+*** Omtose Phellack                                              :soothing:
+https://github.com/franksn/omtose-phellack-theme
+[[./omtose-clojure.png]]
