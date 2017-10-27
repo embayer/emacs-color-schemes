@@ -7,4 +7,4 @@ https://www.reddit.com/r/emacs/search?q=theme&restrict_sr=on
 ** dark
 *** Omtose Phellack                                              :soothing:
 https://github.com/franksn/omtose-phellack-theme
-[[./omtose-clojure.png]]
+[[./images/omtose-clojure.png]]
