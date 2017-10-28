@@ -10,4 +10,19 @@ https://github.com/franksn/omtose-phellack-theme
 #+BEGIN_SRC sh
 M-x package-install omtose-phellack-theme
 #+END_SRC
-[[./images/omtose-clojure.png]]
+[[./img/omtose-clojure.png]]
+
+*** Tao theme                                                  :uncoloured:
+https://github.com/11111000000/tao-theme-emacs
+#+BEGIN_SRC sh
+M-x package-install tao-theme
+#+END_SRC
+[[./img/tao-theme-yin.png]]
+
+** light
+*** Tao theme                                                  :uncoloured:
+https://github.com/11111000000/tao-theme-emacs
+#+BEGIN_SRC sh
+M-x package-install tao-theme
+#+END_SRC
+[[./img/tao-theme-1.0.1c.png]]
