@@ -1,10 +1,13 @@
 * emacs-color-schemes
-https://emacsthemes.com/
-https://pawelbx.github.io/emacs-theme-gallery/
-https://github.com/owainlewis/emacs-color-themes
-https://www.reddit.com/r/emacs/search?q=theme&restrict_sr=on
+| https://emacsthemes.com/                                     |
+| https://pawelbx.github.io/emacs-theme-gallery/               |
+| https://github.com/owainlewis/emacs-color-themes             |
+| https://www.reddit.com/r/emacs/search?q=theme&restrict_sr=on |
 
 ** dark
 *** Omtose Phellack                                              :soothing:
 https://github.com/franksn/omtose-phellack-theme
+#+BEGIN_SRC sh
+M-x package-install omtose-phellack-theme
+#+END_SRC
 [[./images/omtose-clojure.png]]
