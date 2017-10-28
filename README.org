@@ -19,6 +19,18 @@ M-x package-install tao-theme
 #+END_SRC
 [[./img/tao-theme-yin.png]]
 
+*** Solarized                                                :low_contrast:
+https://github.com/sellout/emacs-color-theme-solarized
+[[./img/solarized-vim.png]]
+
+*** Creamsody
+https://github.com/emacsfodder/emacs-theme-creamsody/raw/master/creamsody-multi-window.png
+#+BEGIN_SRC sh
+M-x package-install creamsody-theme
+#+END_SRC
+[[./img//Volumes]]
+
+
 ** light
 *** Tao theme                                                  :uncoloured:
 https://github.com/11111000000/tao-theme-emacs
@@ -26,3 +38,13 @@ https://github.com/11111000000/tao-theme-emacs
 M-x package-install tao-theme
 #+END_SRC
 [[./img/tao-theme-1.0.1c.png]]
+
+*** Solarized                                                :low_contrast:
+https://github.com/sellout/emacs-color-theme-solarized
+[[./img/solarized-vim.png]]
+
+** notable mentions
+| https://github.com/mvarela/Sunburn-Theme                  |
+| https://github.com/purcell/color-theme-sanityinc-tomorrow |
+| https://github.com/belak/emacs-grayscale-theme            |
+|                                                           |
